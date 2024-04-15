@@ -1,0 +1,17 @@
+ItemName_FR = {
+
+    CRMZ.CRM_Helmet = "Casque CRM",
+    CRMZ.CRM_Pants = "Pantalon CRM",
+    CRMZ.CRM_Boots = "Bottes CRM",
+    CRMZ.CRM_Uniform = "Uniforme de Soldat CRM",
+    CRMZ.CRM_ArmorLower = "Coudières CRM",
+    CRMZ.CRM_ArmorUpper = "Epaulières CRM",
+    CRMZ.CRM_Vest = "Gilet Militaire CRM",
+    CRMZ.CRM_Knee = "Genouillères CRM",
+    CRMZ.CRM_Gloves = "Gants Militaires CRM",
+    CRMZ.CRM_VestPouch = "Pochette de Gilet CRM",
+    CRMZ.CRM_SideBag = "Sac latérale CRM",
+    CRMZ.CRM_Helmet2 = "Casque Elite CRM",
+    CRMZ.CRM_ArmorLower2 = "Coudières Elite CRM",
+    
+}
